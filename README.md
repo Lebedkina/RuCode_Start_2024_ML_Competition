@@ -1,2 +1,2 @@
 # RuCode_Start_2024_ML_Competition
-Development of machine learning models for the RuCode competition
+Этот репозиторий содержит решение задачи классификации, разработанное нашей командой ‘pip’ для олимпиады RuCode Start 2024. Наше решение принесло нам второе место в соревновании.
